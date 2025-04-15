@@ -7,7 +7,6 @@ Hello there! I'm Asadur Chowdury, a passionate enthusiast and explorer in the va
 ## My AI Journey 🚀
 
 - **Learning and Growing:** I'm constantly learning and experimenting with different AI technologies and frameworks. I believe in the power of learning by doing.
-- **Projects:** My repository is a canvas where I paint my ideas using the brush of AI. From neural networks to natural language processing, you'll find a diverse range of projects here.
 - **Collaboration:** I'm all about collaboration. If you're working on something exciting in AI, let's connect and see how we can create something amazing together!
 
 ## What I'm Passionate About
